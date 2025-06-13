@@ -1,1 +1,1 @@
-# PhishGuard
+# Phishing-Domain
